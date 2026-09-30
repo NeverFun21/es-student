@@ -2,7 +2,7 @@
 
 include(pico_sdk_import.cmake)
 
-project(131-hello-usb C CXX ASM)
+project(131_hello_usb)
 
 pico_sdk_init()
 
